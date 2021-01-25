@@ -5,4 +5,8 @@ class RobinPost
 	def say_hello_celine
 		puts "say hello"
 	end
+	
+	def say_hello_from_github
+		puts "say hello"
+	end
 end
